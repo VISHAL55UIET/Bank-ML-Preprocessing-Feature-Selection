@@ -1,3 +1,6 @@
+collad Link :- https://colab.research.google.com/drive/161468foO7KpA7Kzb6I7s-echXVNdL6CE?usp=sharing
+
+
 # 🏦 Bank Marketing — Machine Learning Preprocessing & Feature Selection
 
 ## 📌 Project Overview
